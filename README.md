@@ -35,7 +35,9 @@ Welcome to the **Adidas Sales Analysis** project! This interactive Power BI dash
 
 ## 🖼️ Screenshot Preview
 
-> Add dashboard screenshots here when available.
+> ![Dashboard Screenshot](https://github.com/user-attachments/assets/85cc8c6d-9470-4f65-a675-ab277132f8e7)
+>![Dashboard Screenshot](https://github.com/user-attachments/assets/31741981-23f7-46f2-831c-8297971b79f4)
+>![Dashboard Screenshot](https://github.com/user-attachments/assets/51c4c7a8-0453-40ba-8aaf-d009592e277a)
 
 ---
 
