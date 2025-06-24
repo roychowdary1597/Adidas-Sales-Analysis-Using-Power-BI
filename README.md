@@ -56,13 +56,6 @@ Welcome to the **Adidas Sales Analysis** project! This interactive Power BI dash
 
 ---
 
-## 📫 Connect with Me
-
-Feel free to reach out for feedback or collaboration!
-
-- 💼 [LinkedIn](https://linkedin.com) <!-- Replace with your actual LinkedIn -->
-- 📧 your.email@example.com <!-- Replace with your actual email -->
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) <!-- Replace with your actual portfolio -->
 
 ---
 
